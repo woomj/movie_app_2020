@@ -23,9 +23,11 @@ class App extends React.Component {
   render() {
     const { isLoading, movies } = this.state;
     return (
-      <div>
+      <section class="container">
        {isLoading
-          ? "Loading..."
+          ? <div class="loader">
+            <span class="loader__text"_>Loading...</span>
+          </div>
           : movies.map(movie => (
         <Movie
          key={movie.id}
@@ -36,7 +38,7 @@ class App extends React.Component {
          poster={movie.medium_cover_image}
          />
         ))}
-     </div>
+     </section>
     );
   }
 }
