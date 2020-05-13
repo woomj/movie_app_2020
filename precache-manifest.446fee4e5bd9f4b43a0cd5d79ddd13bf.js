@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb1d91acc7a7fcbf4dfc780ffd3dff7e",
+    "revision": "72fe39a6e29616c2fff9fed0fe75d5ec",
     "url": "/woomj.github.io/movie_app_2020/index.html"
   },
   {

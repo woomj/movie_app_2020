@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/woomj.github.io/movie_app_2020/precache-manifest.75fafc215ee2f1a38a29ffb3f253f16e.js"
+  "/woomj.github.io/movie_app_2020/precache-manifest.446fee4e5bd9f4b43a0cd5d79ddd13bf.js"
 );
 
 self.addEventListener('message', (event) => {
