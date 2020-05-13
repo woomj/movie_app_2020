@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/woomj.github.io/movie_app_2020/static/css/main.f781a29a.chunk.css",
+    "main.js": "/woomj.github.io/movie_app_2020/static/js/main.c105250c.chunk.js",
+    "main.js.map": "/woomj.github.io/movie_app_2020/static/js/main.c105250c.chunk.js.map",
+    "runtime-main.js": "/woomj.github.io/movie_app_2020/static/js/runtime-main.7c7e4414.js",
+    "runtime-main.js.map": "/woomj.github.io/movie_app_2020/static/js/runtime-main.7c7e4414.js.map",
+    "static/js/2.769f61a3.chunk.js": "/woomj.github.io/movie_app_2020/static/js/2.769f61a3.chunk.js",
+    "static/js/2.769f61a3.chunk.js.map": "/woomj.github.io/movie_app_2020/static/js/2.769f61a3.chunk.js.map",
+    "index.html": "/woomj.github.io/movie_app_2020/index.html",
+    "precache-manifest.75fafc215ee2f1a38a29ffb3f253f16e.js": "/woomj.github.io/movie_app_2020/precache-manifest.75fafc215ee2f1a38a29ffb3f253f16e.js",
+    "service-worker.js": "/woomj.github.io/movie_app_2020/service-worker.js",
+    "static/css/main.f781a29a.chunk.css.map": "/woomj.github.io/movie_app_2020/static/css/main.f781a29a.chunk.css.map",
+    "static/js/2.769f61a3.chunk.js.LICENSE.txt": "/woomj.github.io/movie_app_2020/static/js/2.769f61a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c7e4414.js",
+    "static/js/2.769f61a3.chunk.js",
+    "static/css/main.f781a29a.chunk.css",
+    "static/js/main.c105250c.chunk.js"
+  ]
+}
